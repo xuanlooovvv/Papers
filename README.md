@@ -10,7 +10,15 @@ Papers read by us
 
 ## Added 2019/10/17
 
-+ ****`Short Text Classification`**** [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](http://10.3.200.202/cache/7/03/shichuan.org/3255dd25802fe12127839da3587090d3/74.pdf)
++ ****`Short Text Classification`**** [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](Text Classification/Heterogeneous Graph Attention Networks for Semi-supervised short text classification.md)
 
   
+
+---
+
+## Added 2019/10/24
+
++ ****`Dialogue`**** [Graph Convolutional Network with Sequential Attention for Goal-Oriented Dialogue Systems](OpenDialKG/Graph Convolutional Network with Sequential Attention for goal-oriented dialogue system.md)
+
++ ****`multi-hop RC`**** [Compositional Questions Do Not Necessitate Multi-hop Reasoning](https://arxiv.org/abs/1906.02900)
 
